@@ -76,3 +76,22 @@ git rebase -i  --  takes your entire feature branch and moves it to the tip of t
 Мала  поняття про  структуру  URL ,  методи запитів та статус-коди, проте інформація  про  з'єднання та кешування  була  новою, раніше лише  чула про   це без  деталей. 
 Здивувало, що  кешування  є таким механізмом,  що  сприяє  покращенню  ефективності  запит-відповідь.
 В роботі здається  має  місце  використовуватися  практично все,  описане в статтях - від  структури  рядка до  кешування,  методи запитів + коди відповідей 
+
+
+## Git Collaboration
+
+Git is both cool  and difficult ))  Everything is clear when  you are  watching a video, but on real  repo a lot goes wrong
+I do  notes of command and  hope it will  help me in practice. I know  I have to  repeat few  times  doing  commands to  resolve  different situations
+
+My tasks:
+[learngitbranching](./task_git_collaboration/learngitbranching.png)
+[learngitbranching](./task_git_collaboration/learngitbranching_1.png)
+[week_3](./task_git_collaboration//week_3.png)
+[week_4](./task_git_collaboration//week_4.png)
+[tests](./task_git_collaboration/tests1.png)
+[tests](./task_git_collaboration/tests2.png)
+[tests](./task_git_collaboration/tests3.png)
+[tests](./task_git_collaboration/tests4.png)
+
+I liked this [super  INFO ](https://github.com/k88hudson/git-flight-rules) and [another INFO](https://ohshitgit.com/) think will help me for  first time
+
