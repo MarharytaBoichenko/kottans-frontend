@@ -95,3 +95,31 @@ My tasks:
 
 I liked this [super  INFO ](https://github.com/k88hudson/git-flight-rules) and [another INFO](https://ohshitgit.com/) think will help me for  first time
 
+## Intro to HTML and CSS
+
+Having some  base I`ve refreshed  my  knowledge in  HTML and CSS,  especially  about box  model, positioning, combining selectors. Absolutely new  was  information about float.
+I  think  all  this is used in work,  because it  is a  base for  building pages. 
+
+##### Some  notes to  remember
+
+h1.special   - select only the <h1> elements with a class of special;
+.main-list li  - descendant combinator select  <li> that are descendants of the .main-list.  Nested elements can be selected by separating selectors with a space
+
+
+**float** - determines how far left or how far right an element should float within its parent element. The value left floats an element to the left side of its container and the value right floats an element to the right side of its container. For the property float, **the width of the container must be specified** or the element will assume the full width of its containing element.
+==
+ **clear** -  specifies how an element should behave when it bumps into another element within the same containing element.The clear is usually used in combination with elements having the CSS float property. This determines on which sides floating elements are allowed to float.
+
+Position:
+**relative** -  an element is relative to its default position on the page
+**absolute** - an element’s position is relative to its closest positioned parent element. It can be pinned to any part of the web page, but the element will still move with the rest of the document when the page is scrolled
+**fixed** - an element’s position can be pinned to any part of the web page. The element will remain in view no matter what.
+**sticky** - an element can stick to a defined offset position when the user scrolls its parent container.
+
+
+My  tasks are here:
+[week_1](./task_html_css_intro/week_1.png)
+[week_2](./task_html_css_intro/week_2.png)
+[learn_html_css](./task_html_css_intro/learn_html_css.png)
+
+I liked this very much ) [Can't Unsee ](https://cantunsee.space/)
