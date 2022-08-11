@@ -148,3 +148,25 @@ Games
 
 - [flexbox_froggy](./task_responsive_web_design/flexbox_froggy.png)
 - [cssgridgarden](./task_responsive_web_design/cssgridgarden.png)
+
+## HTML-CSS-Popup
+
+It was not difficult, but interesting). It`s interesting to practice such a kind of functionality without using JS. I practice grids, because I have never known it before. It was sucsessfull, but unusual after flexbox. I think I will use grids further.
+
+[Demo](https://marharytaboichenko.github.io/HTML-CSS-Popup/)
+[Code](https://github.com/MarharytaBoichenko/HTML-CSS-Popup)
+
+## JS Basics
+
+I am familiar with JS so thi material was not new for me. But it was good to repeat, especially methods of strings and arrays. Unfortunately last task was not very easy, part of it I did, but for part I needed to read more. I realize I need more practice in different tasks, it seems to me I know theory but cannot do something(.
+
+I think everything of this unit is important and used in everyday codding, so I need more and more practise.
+
+Also very useful is this table - game about [equility](https://eqeq.js.org/)
+
+Tasks
+
+- [freecodecamp](./task_js_basics/freecodecamp.png)
+- [freecodecamp](./task_js_basics//freecodecamp1.png)
+- [freecodecamp](./task_js_basics/freecodecamp2.png)
+- [coursera](./task_js_basics/coursera.png)
