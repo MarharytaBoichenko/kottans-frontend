@@ -170,3 +170,52 @@ Tasks
 - [freecodecamp](./task_js_basics//freecodecamp1.png)
 - [freecodecamp](./task_js_basics/freecodecamp2.png)
 - [coursera](./task_js_basics/coursera.png)
+
+## DOM
+
+I was familiar with this info but i realise I`ve forgotten all(( so I refresh it in my mind - how to create dom-elements, add classes and atrubutes, insert these in DOM. Practice was not difficult for all, but firstly I did not know what I have to do)) But more difficult was to create design, than realise menu
+
+What about tasks from freecodecamp about algorithms, they are not easy for me, for lot of them I had to goolge and find info, especially task about Fibonaci numbers, smallest multiply. I hope they won`t be needed in future)))))
+But all about arrays methods are must have!
+
+Tasks
+
+- [freecodecamp](./task_js_dom/freecodecamp.png)
+- [coursera](./task_js_dom/freecodecamp.png)
+
+[Demo](https://marharytaboichenko.github.io/DOM-menu/)
+[Code](https://github.com/MarharytaBoichenko/DOM-menu)
+
+## JS-pre-OOP
+
+Great info was given in the [article](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260) about principles of OOP
+
+**Encapsulation** is achieved when each object keeps its state private, inside a class. Other objects don’t have direct access to this state. Instead, they can only call a list of public functions — called methods.
+
+**Abstraction** means that each object should only expose a high-level mechanism for using it.
+
+This mechanism should hide internal implementation details. It should only reveal operations relevant for the other objects.
+
+**Inheritance** means that you create a (child) class by deriving from another (parent) class. This way, we form a hierarchy.
+
+The child class reuses all fields and methods of the parent class (common part) and can implement its own (unique part).
+
+**Polymorphism** gives a way to use a class exactly like its parent so there’s no confusion with mixing types. But each child class keeps its own methods as they are.
+
+This typically happens by defining a (parent) interface to be reused. It outlines a bunch of common methods. Then, each child class implements its own version of these methods.
+
+[Demo](https://marharytaboichenko.github.io/a-tiny-JS-world/)
+[Code](https://github.com/MarharytaBoichenko/a-tiny-JS-world)
+
+## Object Oriented JS
+
+It was not easy task, because I was more familiar with functions but not with OPP and classes especially. I had to read more info about OOP to understand what it is need for. More understanding has come to me in frogger game.
+
+I do not know how often classes and prototypes are used at work, but I have to know base idea and principles.
+
+Doing tasks in codewars is great idea, I tried and realised that it helps to remember a lot, so I`l continue of course
+
+[codewars](./task_js_oop/codewars.png)
+
+[Demo](https://marharytaboichenko.github.io/frontend-nanodegree-arcade-game/)
+[Code](https://github.com/MarharytaBoichenko/frontend-nanodegree-arcade-game)
