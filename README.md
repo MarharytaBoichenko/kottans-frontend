@@ -219,3 +219,11 @@ Doing tasks in codewars is great idea, I tried and realised that it helps to rem
 
 [Demo](https://marharytaboichenko.github.io/frontend-nanodegree-arcade-game/)
 [Code](https://github.com/MarharytaBoichenko/frontend-nanodegree-arcade-game)
+
+## OOP Exercise
+
+Trying to understand classes) Not so easy as it seeems at first. I did the task but I need to read more ...
+Realy I thought that classes are not used a lot( If I mistaked, I have to learn them in more details, because now my knowledge is not good(
+
+[Demo](https://marharytaboichenko.github.io/a-tiny-JS-world/)
+[Code](https://github.com/MarharytaBoichenko/a-tiny-JS-world)
